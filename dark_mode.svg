@@ -17,20 +17,20 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="390px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9">
-<tspan x="15" y="30">mansour@tarek</tspan> -———————————————————————————————————————————-—-
-<tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">macOS, Windows, Linux, Android</tspan>
-<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................................................ </tspan><tspan class="value">Thebes Academy</tspan>
-<tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">Laravel Back-End • Flutter Mobile Developer</tspan>
-<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................................................... </tspan><tspan class="value">VSCode, Android Studio, PhpStorm</tspan>
-<tspan x="15" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">PHP, Dart, C/C++, Java, Python</tspan>
-<tspan x="15" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ................................................ </tspan><tspan class="value">HTML5, CSS3, Bootstrap, MySQL, Js</tspan>
-<tspan x="15" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................................................................. </tspan><tspan class="value">Arabic, English</tspan>
-<tspan x="15" y="230" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ..................................................................... </tspan><tspan class="value">Laravel</tspan>
-<tspan x="15" y="250" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Mobile</tspan>:<tspan class="cc"> ...................................................................... </tspan><tspan class="value">Flutter</tspan>
-<tspan x="15" y="290">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="15" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ....................................................... </tspan><tspan class="value">mansourtarek100@gmail.com</tspan>
+<tspan x="15" y="30">- Mansour_Tarek</tspan> -———————————————————————————————————————————
+<tspan x="15" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Laravel Back-End Developer • Flutter Mobile Developer • Competitive Programmer</tspan>
+<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ..................................................................... </tspan><tspan class="value">Computer Science</tspan>
+<tspan x="15" y="90" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">macOS, Windows, Linux, Android</tspan>
+<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................................... </tspan><tspan class="value">VSCode, Android Studio, Xcode, PhpStorm</tspan>
+<tspan x="15" y="150" class="cc">. </tspan><tspan class="key">Mobile</tspan>.<tspan class="key">Development</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Flutter, Dart, State Management (Bloc, Riverpod, Provider), Firebase</tspan>
+<tspan x="15" y="170" class="cc">. </tspan><tspan class="key">Back-End</tspan>.<tspan class="key">Development</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Laravel, PHP, RESTful APIs, Database Design, MySQL</tspan>
+<tspan x="15" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">PHP, Dart, C/C++, Java, Python</tspan>
+<tspan x="15" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">HTML5, CSS3, Bootstrap, MySQL, JavaScript</tspan>
+<tspan x="15" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................................................................. </tspan><tspan class="value">Arabic, English</tspan>
+<tspan x="15" y="290">- Contact</tspan> -—————————————————————————————————————————————————
+<tspan x="15" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ....................................................... </tspan><a class="value">mansourtarek100@gmail.com</a>
 <tspan x="15" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............................................................ </tspan><tspan class="value">mansourtarek78@gmail.com</tspan>
-<tspan x="15" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........................................................ </tspan><tspan class="value">mansourtarekmansour.github.io</tspan>
-<tspan x="15" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................................................... </tspan><tspan class="value">linkedin.com/in/mansour-tarek</tspan>
+<tspan x="15" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........................................................ </tspan><a class="value">mansourtarekmansour.github.io</a>
+<tspan x="15" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................................................... </tspan><a class="value">linkedin.com/in/mansour-tarek</a>
 </text>
 </svg>
