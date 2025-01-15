@@ -28,9 +28,9 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">HTML5, CSS3, Bootstrap, MySQL, JavaScript</tspan>
 <tspan x="15" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................................................................. </tspan><tspan class="value">Arabic, English</tspan>
 <tspan x="15" y="290">- Contact</tspan> -—————————————————————————————————————————————————
-<tspan x="15" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ....................................................... </tspan><a class="value">mansourtarek100@gmail.com</a>
-<tspan x="15" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............................................................ </tspan><tspan class="value">mansourtarek78@gmail.com</tspan>
-<tspan x="15" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........................................................ </tspan><a class="value">mansourtarekmansour.github.io</a>
-<tspan x="15" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................................................... </tspan><a class="value">linkedin.com/in/mansour-tarek</a>
+<tspan x="15" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ....................................................... </tspan><a class="value" href="mailto:mansourtarek100@gmail.com">mansourtarek100@gmail.com</a>
+<tspan x="15" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............................................................ </tspan><a class="value" href="mailto:mansourtarek78@gmail.com">mansourtarek78@gmail.com</a>
+<tspan x="15" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........................................................ </tspan><a class="value" href="https://mansourtarekmansour.github.io">mansourtarekmansour.github.io</a>
+<tspan x="15" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................................................... </tspan><a class="value" href="https://www.linkedin.com/in/mansour-tarek">linkedin.com/in/mansour-tarek</a>
 </text>
 </svg>
